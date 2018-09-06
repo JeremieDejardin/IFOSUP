@@ -3,6 +3,8 @@
 Formateur : 
 - Marie Brasseur
 - marie.brasseur@ifosupwavre.be
+
+Contexte :
 Cours partagé avec 2ème compta.
 
 ## Introduction
@@ -13,4 +15,16 @@ Format du cours : Exemples et exercices pratiques.
 ## 1er cours intro
 
 ### Exercice : Brainstorming sur la communication
- Conclusion : Lors de la mise en commun des mots mis en évidence, le recepteur n'avait pas été mis en avant. 
+Conclusion : Lors de la mise en commun des mots mis en évidence, le recepteur n'avait pas été mis en avant. 
+
+
+### Theorie de la comm.
+
+Si 100% ce qu'on veut dire 
+
+- 70% ce qu'on exprime
+- 60% ce que l'autre entend
+- 50% ce que l'autre écoute
+- 40% ce que l'autre comprend
+- 20% ce que l'autre retient
+- 10% ce que l'autre peut restitutué/repercuté
