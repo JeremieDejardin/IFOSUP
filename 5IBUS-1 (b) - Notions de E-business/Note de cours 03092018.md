@@ -1,14 +1,14 @@
 # Autonomie de la volonté vs Dispositions légales
--Pas de pb si aligné. 
--Pb si perceptions diffèrent.
+- Pas de pb si aligné. 
+- Pb si perceptions diffèrent.
 
-Dispositions : 
-	-Obligatoires 
-	Incompatible avec Autonomie de la volonté.
-	-Impératives
-	Protection des plus faibles. Doit se faire valoir au moment même (Pas retroactives)
-	-non-obligatoires
-	Compatible avec Autonomie de la volonté.
+## Dispositions : 
+- Obligatoires 
+Incompatible avec Autonomie de la volonté.
+- Impératives
+Protection des plus faibles. Doit se faire valoir au moment même (Pas retroactives)
+- non-obligatoires
+Compatible avec Autonomie de la volonté.
 	
 
 #Formalisme
@@ -26,6 +26,9 @@ Voir p146 pour application
 article 1 : Object de la convention
 article 2 : Mission du prestataire
 article 5 : Prix et paiement
+
+## Reste : Disposition contractuelle. 
+###Essentielles
 
 ###Objet
 Determiné ou determinable
