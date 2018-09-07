@@ -70,7 +70,7 @@ Bénéfice par vente
 - ...
 
 ## Marketplace / Lead gen
-%sur mise en relation
+% sur mise en relation
 - Nb lead/Ventes
 - Nb offres
 - Equilibre offre/demande
@@ -83,6 +83,35 @@ Publicité
 - PV des publicités
 - ...
 
+# Besoin client
+Ecouter les autres, particulièrement ceux d'autres domaines. 
+
+Se demarquer de ses concurrents
+
+... Missing notes...
+
+# Business Plan
+
+## Overview
+### 3 interconnected building blocks
+Business plan
+Marketing
+Functionnalities
+
+## Business model
 
 
 
+... Missing notes... 
+
+# Glossary 
+
+**Taux de conversion :**
+Nombre de visiteur qui devienne client. 
+**Click rate :** 
+Taux de clique par visite
+**Bounce rate :** 
+Taux de rebond - celui qui visiteurs qui s'en vont directement
+**Conversion rate :**
+1. From visitor to prospect
+2. From prospect to client
