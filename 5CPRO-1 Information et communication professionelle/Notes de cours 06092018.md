@@ -28,7 +28,7 @@ Si 100% ce qu'on veut dire
 - 20% ce que l'autre retient
 - 10% ce que l'autre peut restitué/repercuté
 
-Comprehension vs perception? 
+###Comprehension vs perception? 
 
 #### Attention
 Se mettre en situation de recevoir des informations pour les traiter et prendre une decision
@@ -40,4 +40,4 @@ Une étape essentiel du processus de transformation d'un stimlulus en une represe
 Processus psychologique selon lequel on est capable de réflechir et conceptualiser qqchose pour traiter cet objet de la manière la plus appropriée. 
 
 
-[ ] Trouver un exemple dans le cadre de travail d'un décalage entre la perception et la comprehension.  
+- [ ] Trouver un exemple dans le cadre de travail d'un décalage entre la perception et la comprehension.  
