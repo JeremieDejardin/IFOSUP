@@ -107,11 +107,15 @@ Functionnalities
 # Glossary 
 
 **Taux de conversion :**
+
 Nombre de visiteur qui devienne client. 
 **Click rate :** 
+
 Taux de clique par visite
 **Bounce rate :** 
+
 Taux de rebond - celui qui visiteurs qui s'en vont directement
 **Conversion rate :**
+
 1. From visitor to prospect
 2. From prospect to client
