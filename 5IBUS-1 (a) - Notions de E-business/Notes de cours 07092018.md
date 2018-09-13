@@ -88,7 +88,7 @@ Ecouter les autres, particulièrement ceux d'autres domaines.
 
 Se demarquer de ses concurrents
 
-... Missing notes...
+...Missing notes...
 
 # Business Plan
 
@@ -100,9 +100,7 @@ Functionnalities
 
 ## Business model
 
-
-
-... Missing notes... 
+...Missing notes... 
 
 # Glossary 
 
@@ -122,3 +120,7 @@ Taux de rebond - celui qui visiteurs qui s'en vont directement
 
 1. From visitor to prospect
 2. From prospect to client
+
+
+# Business model canvas
+

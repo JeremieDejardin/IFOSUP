@@ -5,8 +5,8 @@
 ## Dispositions : 
 - Obligatoires 
 Incompatible avec Autonomie de la volonté.
-- Impératives
-Protection des plus faibles. Doit se faire valoir au moment même (Pas retroactives)
+  - Impératives
+	Protection des plus faibles. Doit se faire valoir au 	moment même (Pas retroactives)
 - non-obligatoires
 Compatible avec Autonomie de la volonté.
 	

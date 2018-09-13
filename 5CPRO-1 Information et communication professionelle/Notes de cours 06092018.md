@@ -42,10 +42,15 @@ On estime le rapport suivant :
 Se mettre en situation de recevoir des informations pour les traiter et prendre une decision
 
 #### Perception 
-Une étape essentiel du processus de transformation d'un stimlulus en une representation. Donner une signification a ce qu'on a perçu et y repondre. 
+Une étape essentiel du processus de transformation d'un 
+stimlulus en une representation. Donner une signification a ce qu'on a perçu et y repondre. 
 
 #### Comprehension
 Processus psychologique selon lequel on est capable de réflechir et conceptualiser qqchose pour traiter cet objet de la manière la plus appropriée. 
 
 
 - [ ] Trouver un exemple dans le cadre de travail d'un décalage entre la perception et la comprehension.  
+
+
+
+
