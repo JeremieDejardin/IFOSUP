@@ -65,4 +65,12 @@ Combien?
 
 Ex: Tête droite ou descendue dans les épaules.
 
+##### Conseil pour bien communiquer oralement
 
+* préparer son message
+* se preparer en tant qu'metteur.
+* capter l'attention
+* émettre le message
+* recevoir le feedback / échanger
+* mettre fin a la communication
+* établir un suivi. 
