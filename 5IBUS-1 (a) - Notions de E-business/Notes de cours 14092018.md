@@ -12,11 +12,30 @@
 
 ### Business Canvas
 
-#### Customer segment
+#### Revenues
 
-##### Relations ships
+##### Customers segment
 
-##### 
+*Relationships
+*
 
-## Business canvas part 2. 
+#### Key ressources 
+Ex : Cuisinier.
+
+#### Key activities
+Ex : Produire nourriture.
+
+#### Key partners
+Ex: Fournisseurs. 
+
+## Investment vs expenses
+
+Different in term of accounting
+
+* Investment	: Long term value. 
+something that lasts, that will be used overtime. 
+
+* Expenses 	:  Short term value
+something that is consumed immediatly. 
+
 
