@@ -4,11 +4,11 @@
 
 Quelle est votre définition a priori de la veille technologique? 
 
-##### Réponse : 
+### Réponse : 
 
 La veille technologique est l'effort fourni pour rassembler et synthetiser des informations et sources fiables sur l'aspect technologique d'un sujet en évolution. 
 
-##### Correction : 
+### Correction : 
 
 **Mise en commun**
 
