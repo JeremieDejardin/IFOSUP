@@ -124,3 +124,4 @@ Taux de rebond - celui qui visiteurs qui s'en vont directement
 
 # Business model canvas
 
+#
