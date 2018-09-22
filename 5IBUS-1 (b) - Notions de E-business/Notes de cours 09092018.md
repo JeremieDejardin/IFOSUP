@@ -1,11 +1,11 @@
-... New Class...
+****... New Class...
 
-Dommage quantifié : 
-clause pénale. 
+Dommage quantifiÃ© : 
+clause pÃ©nale. 
 
 
 Evaluer une loi : 
 
 champ d'application
-date d'application : 10 jour de sa publication au moniteur ou date(s) spécifiée(s) dans la loi elle même. Peut-être retroactive. 
+date d'application : 10 jour de sa publication au moniteur ou date(s) spÃ©cifiÃ©e(s) dans la loi elle mÃªme. Peut-Ãªtre retroactive. 
 
